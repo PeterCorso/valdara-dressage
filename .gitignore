@@ -1,0 +1,12 @@
+# Only the website is tracked. Source assets (design PNGs, the 377 MB hero GIF,
+# fonts zips, PDFs, blog drafts) stay local in this folder.
+/*
+!/.gitignore
+!/README.md
+!/build.py
+!/*.html
+!/src/
+!/css/
+!/js/
+!/assets/
+.DS_Store
